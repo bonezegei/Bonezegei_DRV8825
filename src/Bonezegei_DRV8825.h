@@ -1,10 +1,12 @@
 /*
-  This Library is written for GSM
+  This Library is written for DRV8825
   Author: Bonezegei (Jofel Batutay)
   Date: March 2024 
 */
 #ifndef _BONEZEGEI_DRV8825_H_
 #define _BONEZEGEI_DRV8825_H_
+
+#include <Arduino.h>
 
 class Bonezegei_DRV8825{
 public:
