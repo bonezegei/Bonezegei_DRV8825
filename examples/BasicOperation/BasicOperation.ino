@@ -1,7 +1,7 @@
 /*
-  This Library is written for GSM
+  This Library is written for DRV8825 Basic operation Example
   Author: Bonezegei (Jofel Batutay)
-  Date: March 2023 
+  Date: March 2024 
 */
 
 #include <Bonezegei_DRV8825.h>
